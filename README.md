@@ -20,9 +20,10 @@
 ## Установка
 
 1. Клонируйте этот репозиторий
-2. ```bash - python3 -m venv venv
-3. Установите зависимости:
-   ```bash - pip install -r requirements.txt
+2. bash - python3 -m venv venv
+3. bash - source venv/bin/activate
+4. Установите зависимости:
+   bash - pip install -r requirements.txt
 
 ## Использование
 
